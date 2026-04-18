@@ -19,9 +19,6 @@ Briefly describe your organization's mission here. What are you building? Who is
 ---
 
 ### 📌 Popular Projects
-*   [Project Name 1](link) - A short description of what this project does.
-*   [Project Name 2](link) - Why should people use this?
-*   [Project Name 3](link) - Mention a key feature.
 
 ---
 
