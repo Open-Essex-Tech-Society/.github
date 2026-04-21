@@ -1,6 +1,4 @@
-# [OPEN ESSEX Tech Society] 🚀
-
-![Banner Image](https://placeholder.com)
+# OPEN ESSEX Tech Society
 
 ### 🌟 About Us
 Briefly describe your organization's mission here. What are you building? Who is it for? 
