@@ -10,9 +10,10 @@ Briefly describe your organization's mission here. What are you building? Who is
 
 | Category | Tools |
 | :--- | :--- |
-| **Languages** | Python, TypeScript, Go |
-| **Frameworks** | React, FastAPI, Flutter |
-| **Cloud/DevOps** | AWS, Docker, GitHub Actions |
+| **OS** | Arch | Fedra | kali |
+| **Languages** | Python, TypeScript|
+| **Frameworks** | React |
+| **Cloud/DevOps** | AWS, Docker, Cloudflare pages/workers |
 
 ---
 
