@@ -13,7 +13,7 @@ Briefly describe your organization's mission here. What are you building? Who is
 | **OS** | Arch,fedra,kali |
 | **Languages** | Python, TypeScript|
 | **Frameworks** | React |
-| **Cloud/DevOps** | AWS, Docker, Cloudflare pages/workers |
+| **Cloud/DevOps** | Docker, Cloudflare pages/workers |
 
 ---
 
