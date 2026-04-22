@@ -33,7 +33,3 @@ We love contributors! Here is how you can help:
 
 ---
 
-<p align="center">
-  Made with ❤️ by the **[Organization Name]** Team
-</p>
-
