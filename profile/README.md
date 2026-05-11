@@ -11,7 +11,7 @@ Briefly describe your organization's mission here. What are you building? Who is
 | Category | Tools |
 | :--- | :--- |
 | **OS** | Arch,fedra,kali |
-| **Languages** | Python, TypeScript|
+| **Languages** | C, Rust, TypeScript, |
 | **Frameworks** | React |
 | **Cloud/DevOps** | Docker, Cloudflare pages/workers |
 
