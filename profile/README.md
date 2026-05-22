@@ -10,9 +10,9 @@ Briefly describe your organization's mission here. What are you building? Who is
 
 | Category | Tools |
 | :--- | :--- |
-| **OS** | Arch,fedra,kali |
-| **Languages** | C, Rust, TypeScript, |
-| **Frameworks** | React |
+| **OS** | Arch,fedra,kali,Ubuntu |
+| **Languages** | C, Rust, TypeScript,Ruby |
+| **Frameworks** | React,Tauri |
 | **Cloud/DevOps** | Docker, Cloudflare pages/workers |
 
 ---
