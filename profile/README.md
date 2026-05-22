@@ -1,8 +1,6 @@
 # OPEN ESSEX Tech Society
 
 ### 🌟 About Us
-Briefly describe your organization's mission here. What are you building? Who is it for? 
-(Example: We are a group of developers building open-source tools for better productivity.)
 
 ---
 
@@ -29,8 +27,4 @@ We love contributors! Here is how you can help:
 
 ---
 
-### 🔗 Connect With Us
-[Website](https://example.com) • [X/Twitter](https://twitter.com) • [LinkedIn](https://linkedin.com) • [Email](mailto:hello@example.com)
-
----
 
