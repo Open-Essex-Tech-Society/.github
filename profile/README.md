@@ -8,9 +8,9 @@
 
 | Category | Tools |
 | :--- | :--- |
-| **OS** | Arch,fedra,kali,Ubuntu |
+| **OS** | Arch,Fedora,Kali,Ubuntu |
 | **Languages** | C, Rust, TypeScript,Ruby |
-| **Frameworks** | React,Tauri |
+| **Frameworks** | React,Tauri, Sinatra |
 | **Cloud/DevOps** | Docker, Cloudflare pages/workers |
 
 ---
